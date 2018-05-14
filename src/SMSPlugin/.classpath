@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="lib/hw-common-utils.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/smsadapter_plugin_interface.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.22.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
